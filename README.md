@@ -1,4 +1,4 @@
-> "**<font color="blue">Çalış didin çabala. Vardığın yer çabaladığın yerden tatlı gelmeyecek.**"</font>
+> "**<font color="blue">"Work, Run, Write but not for earn the World. Only Earn to Learn"**"</font>
 
 
 <img src="https://media.giphy.com/media/si4P9VBMEIhq40i6tT/giphy.gif" width="480" height="480" align="right" >
@@ -6,7 +6,7 @@
 <br />
 
 
-###\# <font color="Green">My Educational Adventure With</font>  <font color="Blue">[TechproEducation] </font> \#
+### \#<font color="Green">My Educational Adventure With</font>  <font color="Blue">[TechproEducation] </font>\#
  <font color="red">
 <br />
 <br />
