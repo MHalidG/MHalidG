@@ -1,15 +1,16 @@
-> "**<font color="blue">"Work, Run, Write but not for earn the World. Only Earn to Learn"**"</font>
-
-
-<img src="https://media.giphy.com/media/si4P9VBMEIhq40i6tT/giphy.gif" width="480" height="480" align="right" >
 <br />
 <br />
-
 
 ### \#<font color="Green">My Educational Adventure With</font>  <font color="Blue">[TechproEducation] </font>\#
  <font color="red">
+ 
 <br />
 <br />
+ 
+  
+<font color="Purple">
+<img src="https://github-readme-stats.vercel.app/api?username=MHalidG&count_private=true"  align="right">
+
 
 - [x] **Java (Basic)** 
   - *27.04.2022*
@@ -37,23 +38,19 @@
 - [ ] **React**
 - [ ] **Front-End Project**
 </font>
-
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHalidG"  align="right">
+</font>
+ 
+[TechproEducation]: https://techproeducation.com
 
 ```bash
+DevTeam3-JAVANARLAR
 Muhammed Halid Gunduz 
 19-02-2022
+>"Work, Run, Write but not for earn the World. Only Earn to Learn"
 ```
 
+
 ![snake gif](https://github.com/MHalidG/MHalidG/blob/output/github-contribution-grid-snake.gif)
-
-<font color="Purple">
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=MHalidG&count_private=true">
-</details>
-
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHalidG">
-</details>
-</font>
+ <img src="https://media.giphy.com/media/si4P9VBMEIhq40i6tT/giphy.gif" width="125" height="180">
