@@ -43,6 +43,9 @@
 Muhammed Halid Gunduz 
 19-02-2022
 ```
+
+![snake gif](https://github.com/MHalidG/MHalidG/blob/output/github-contribution-grid-snake.gif)
+
 <font color="Purple">
 <details>
 <summary>:bulb: Github Stats</summary>
