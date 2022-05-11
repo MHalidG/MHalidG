@@ -21,6 +21,9 @@
 - [ ] **JDBC**
 - [ ] **Hibernate**
 - [ ] **J-Unit**
+ 
+ <img src="https://media.giphy.com/media/si4P9VBMEIhq40i6tT/giphy.gif" width="240" height="240" align="right">
+
 - [ ] **MongoDB**
 - [ ] **API**
 - [ ] **SpringMVC**
@@ -53,4 +56,4 @@ Muhammed Halid Gunduz
 ```
 
 ![snake gif](https://github.com/MHalidG/MHalidG/blob/output/github-contribution-grid-snake.gif)
- <img src="https://media.giphy.com/media/si4P9VBMEIhq40i6tT/giphy.gif" width="125" height="190">
+ 
