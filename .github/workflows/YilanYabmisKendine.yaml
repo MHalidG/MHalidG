@@ -38,8 +38,8 @@ jobs:
       - run: git status
 
       # Push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
