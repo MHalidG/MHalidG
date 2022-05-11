@@ -48,9 +48,9 @@
 DevTeam3-JAVANARLAR
 Muhammed Halid Gunduz 
 19-02-2022
+
 >"Work, Run, Write but not for earn the World. Only Earn to Learn"
 ```
 
-
 ![snake gif](https://github.com/MHalidG/MHalidG/blob/output/github-contribution-grid-snake.gif)
- <img src="https://media.giphy.com/media/si4P9VBMEIhq40i6tT/giphy.gif" width="125" height="180">
+ <img src="https://media.giphy.com/media/si4P9VBMEIhq40i6tT/giphy.gif" width="125" height="190">
