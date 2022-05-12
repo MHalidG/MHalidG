@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MHalidG&count_private=true"  align="right">
 
 
-- [x] **Java (Basic)** 
+- [x] **Java (CORE)** 
   - *27.04.2022*
 - [x]  **Lambda**
   - *06.05.2022*
