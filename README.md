@@ -21,14 +21,14 @@
 - [ ] **JDBC**
 - [ ] **Hibernate**
 - [ ] **J-Unit**
- 
- <img src="https://media.giphy.com/media/si4P9VBMEIhq40i6tT/giphy.gif" width="240" height="240" align="right">
-
 - [ ] **MongoDB**
 - [ ] **API**
 - [ ] **SpringMVC**
 - [ ] **SpringBoot**
 - [ ] **SpringSecurity**
+ 
+ <img src="https://media.giphy.com/media/si4P9VBMEIhq40i6tT/giphy.gif"  align="right" width="240" height="240">
+ 
 - [ ] **Advanced Java**
   - [ ] *Enum*
   - [ ] *Generic*
