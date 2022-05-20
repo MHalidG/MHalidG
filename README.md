@@ -16,11 +16,13 @@
   - *27.04.2022*
 - [x]  **Lambda**
   - *06.05.2022*
-- [ ] **JavaScript**
-- [ ] **MySQL**
-- [ ] **JDBC**
+- [x] **MySQL**
+  - *21.05.2022*
+- [x] **JDBC**
+  - *21.05.2022*
 - [ ] **Hibernate**
 - [ ] **J-Unit**
+- [ ] **JavaScript**
 - [ ] **MongoDB**
 - [ ] **API**
 - [ ] **SpringMVC**
