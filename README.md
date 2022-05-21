@@ -10,8 +10,7 @@
   
 <font color="Purple">
 <img src="https://github-readme-stats.vercel.app/api?username=MHalidG&count_private=true"  align="right">
-
-
+ 
 - [x] **Java (CORE)** 
   - *27.04.2022*
 - [x]  **Lambda**
@@ -28,9 +27,6 @@
 - [ ] **SpringMVC**
 - [ ] **SpringBoot**
 - [ ] **SpringSecurity**
- 
- <img src="https://media.giphy.com/media/si4P9VBMEIhq40i6tT/giphy.gif"  align="right" width="240" height="240">
- 
 - [ ] **Advanced Java**
   - [ ] *Enum*
   - [ ] *Generic*
@@ -58,4 +54,6 @@ Muhammed Halid Gunduz
 ```
 
 ![snake gif](https://github.com/MHalidG/MHalidG/blob/output/github-contribution-grid-snake.gif)
+ 
+ <img src= "https://c.tenor.com/JJXP77656U4AAAAC/sword-art-online-unamused.gif" >
  
