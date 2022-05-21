@@ -53,7 +53,9 @@ Muhammed Halid Gunduz
 >"Work, Run, Write but not for earn the World. Only Earn to Learn"
 ```
 
+ <img src= "https://c.tenor.com/JJXP77656U4AAAAC/sword-art-online-unamused.gif" align="right" >
+
 ![snake gif](https://github.com/MHalidG/MHalidG/blob/output/github-contribution-grid-snake.gif)
  
- <img src= "https://c.tenor.com/JJXP77656U4AAAAC/sword-art-online-unamused.gif" >
+
  
