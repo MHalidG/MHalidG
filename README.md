@@ -1,6 +1,11 @@
 <br />
 <br />
 
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=MHalidG.MHalidG) -->
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=MHalidG&label=Profile%20views&color=0e75b6&style=flat" alt="MHalidG" /> </p>
+
 ### \#<font color="Green">My Educational Adventure With</font>  <font color="Blue">[TechproEducation] </font>\#
  <font color="red">
  
@@ -56,4 +61,21 @@ Muhammed Halid Gunduz
 ![snake gif](https://github.com/MHalidG/MHalidG/blob/output/github-contribution-grid-snake.gif)
  
 
- 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MHalidG" alt="MHalidG" /></a> </p>
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MHalidG&show_icons=true&locale=en" alt="MHalidG" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHalidG&" alt="MHalidG" /></p>
+
+
+
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHalidG&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MHalidG&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MHalidG&theme=dracula) 
+
