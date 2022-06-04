@@ -24,10 +24,11 @@
   - *21.05.2022*
 - [x] **JDBC**
   - *21.05.2022*
-- [ ] **Hibernate**
+- [x] **Hibernate**
+   - *04.06.2022*
 - [ ] **J-Unit**
-- [ ] **JavaScript**
 - [ ] **MongoDB**
+- [ ] **JavaScript**
 - [ ] **API**
 - [ ] **SpringMVC**
 - [ ] **SpringBoot**
