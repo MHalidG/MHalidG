@@ -28,9 +28,10 @@
    - *04.06.2022*
 - [x] **J-Unit**
    - *06.06.2022*
-- [ ] **MongoDB**
-- [ ] **JavaScript**
+- [x] **MongoDB**
+   - *10.06.2022* 
 - [ ] **API**
+- [ ] **JavaScript**
 - [ ] **SpringMVC**
 - [ ] **SpringBoot**
 - [ ] **SpringSecurity**
