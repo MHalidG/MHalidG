@@ -30,7 +30,8 @@
    - *06.06.2022*
 - [x] **MongoDB**
    - *10.06.2022* 
-- [ ] **API**
+- [x] **API**
+    - *15.06.2022* 
 - [ ] **JavaScript**
 - [ ] **SpringMVC**
 - [ ] **SpringBoot**
