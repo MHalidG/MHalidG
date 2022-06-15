@@ -32,10 +32,10 @@
    - *10.06.2022* 
 - [x] **API**
     - *15.06.2022* 
-- [ ] **JavaScript**
 - [ ] **SpringMVC**
 - [ ] **SpringBoot**
 - [ ] **SpringSecurity**
+- [ ] **JavaScript**
 - [ ] **Advanced Java**
   - [ ] *Enum*
   - [ ] *Generic*
