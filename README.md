@@ -32,7 +32,7 @@
    - *10.06.2022* 
 - [x] **API**
     - *15.06.2022* 
-- [ ] **SpringMVC**
+- [x] **SpringMVC**
     - *20.06.2022* 
 - [ ] **SpringBoot**
 - [ ] **SpringSecurity**
