@@ -34,7 +34,8 @@
     - *15.06.2022* 
 - [x] **SpringMVC**
     - *20.06.2022* 
-- [ ] **SpringBoot**
+- [x] **SpringBoot**
+    - *12.07.2022*
 - [ ] **SpringSecurity**
 - [ ] **JavaScript**
 - [ ] **Advanced Java**
