@@ -36,7 +36,8 @@
     - *20.06.2022* 
 - [x] **SpringBoot**
     - *12.07.2022*
-- [ ] **SpringSecurity**
+- [x] **SpringSecurity**
+    - *19.07.2022*
 - [ ] **JavaScript**
 - [ ] **Advanced Java**
   - [ ] *Enum*
