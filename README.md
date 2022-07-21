@@ -46,7 +46,7 @@
 - [ ] **Back-End Project**
 - [ ] **Html-Css**
 - [ ] **JavaScript**
-- [ ] **BootStap**
+- [ ] **BootStrap**
 - [ ] **JS**
 - [ ] **React**
 - [ ] **Front-End Project**
