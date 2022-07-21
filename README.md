@@ -38,7 +38,6 @@
     - *12.07.2022*
 - [x] **SpringSecurity**
     - *19.07.2022*
-- [ ] **JavaScript**
 - [ ] **Advanced Java**
   - [ ] *Enum*
   - [ ] *Generic*
@@ -46,6 +45,7 @@
   - [ ] *Thread*
 - [ ] **Back-End Project**
 - [ ] **Html-Css**
+- [ ] **JavaScript**
 - [ ] **BootStap**
 - [ ] **JS**
 - [ ] **React**
