@@ -39,12 +39,13 @@
 - [x] **SpringSecurity**
     - *19.07.2022*
 - [ ] **Advanced Java**
-  - [ ] *Enum*
+  - [x] *Enum*
   - [ ] *Generic*
   - [ ] *Debug*
   - [ ] *Thread*
 - [ ] **Back-End Project**
-- [ ] **Html-Css**
+- [ ] **Html**
+- [ ] **Css**
 - [ ] **JavaScript**
 - [ ] **BootStrap**
 - [ ] **JS**
