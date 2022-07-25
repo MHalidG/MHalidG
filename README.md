@@ -78,21 +78,3 @@ Muhammed Halid Gunduz
  
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MHalidG" alt="MHalidG" /></a> </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHalidG&theme=tokyonight=true&locale=en" alt="MHalidG" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MHalidG&show_icons=true&locale=en" alt="MHalidG" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MHalidG&" alt="MHalidG" /></p>
-
-
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHalidG&theme=dracula)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MHalidG&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MHalidG&theme=dracula) 
-
