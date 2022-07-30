@@ -45,7 +45,7 @@
   - [ ] *Debug*
   - [ ] *Thread*
 - [ ] **Back-End Project**
-- [ ] **Html**
+- [x] **Html**
     - *29.07.2022*
 - [ ] **Css**
 - [ ] **JavaScript**
