@@ -41,7 +41,8 @@
 - [ ] **Advanced Java**
   - [x] *Enum*
     - *23.07.2022*
-  - [ ] *Generic*
+  - [x] *Generic*
+      - *18.08.2022*
   - [ ] *Debug*
   - [ ] *Thread*
 - [ ] **Back-End Project**
