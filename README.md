@@ -56,8 +56,6 @@
 - [ ] **Front-End Project**
 </font>
  
-![image align="right"](https://user-images.githubusercontent.com/100026570/172024982-a30bcc4a-af18-4080-9c4d-40e660c753ba.png) 
-
 - [x] *PostGreSQL*
 - [x] *MySQL*
 - [x] *INTELLI J*
