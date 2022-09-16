@@ -50,9 +50,8 @@
 - [x] **Html**
     - *29.07.2022*
 - [ ] **Css**
-- [ ] **JavaScript**
 - [ ] **BootStrap**
-- [ ] **JS**
+- [ ] **JavaScript**
 - [ ] **React**
 - [ ] **Front-End Project**
 </font>
