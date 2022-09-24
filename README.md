@@ -47,6 +47,8 @@
   - [ ] *Thread*
 - [x] **Back-End Project**
     - *24.08.2022*
+- [x] **MicroService Project**
+    - *25.09.2022*
 - [x] **Html**
     - *29.07.2022*
 - [ ] **Css**
