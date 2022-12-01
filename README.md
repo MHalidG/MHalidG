@@ -9,15 +9,16 @@
  
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHalidG"  align="right">
+</font>
+
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MHalidG&" alt="MHalidG" /></p>
 
 
+#Sunguri
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHalidG"  align="right">
-</font>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHalidG&theme=dracula)
 
 
 
