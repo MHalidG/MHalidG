@@ -21,12 +21,3 @@
 
 
 
-
-```bash
-DevTeam3-JAVANARLAR
-Muhammed Halid Gunduz 
-(19-02-2022)
-
->"Work, Run, Write but not for earn the World. Only Earn to Learn"
-```
-
